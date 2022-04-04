@@ -1,1 +1,1 @@
-# TCGA-RNA-seq-data-fetch
+# Download RNA-seq data from The Cancer Genome Atlas
